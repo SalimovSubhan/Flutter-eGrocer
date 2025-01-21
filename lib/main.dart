@@ -12,7 +12,7 @@ import 'package:test_relise_app/screens/profile.dart';
 import 'package:test_relise_app/setings/data/app_theme_data.dart';
 
 void main() {
-  runApp(HomPage());
+  runApp(HomPage());//ppppppppppppppppppppppppp
 }
 
 class HomPage extends StatelessWidget {
