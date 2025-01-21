@@ -55,7 +55,7 @@ class _CarsinaState extends State<Carsina> {
     return Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          toolbarHeight: 110,
+          toolbarHeight: 112,
           backgroundColor: Color.fromARGB(255, 46, 44, 44),
           leadingWidth: double.infinity,
           leading: Column(
